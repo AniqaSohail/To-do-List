@@ -1,4 +1,9 @@
-
+@media only screen and (max-width: 768px) {
+  /* styles here will be applied to mobile phones */
+}
+@media only screen and (min-width: 769px) and (max-width: 1200px) {
+  /* styles here will be applied to laptops */
+}
 body {
     background-image: url(./A_Jan22_03_1355552157-01.jpg);
     background-repeat: no-repeat;
